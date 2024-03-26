@@ -1,6 +1,6 @@
 {
   "name": "mu228-simple-calculator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple calculator using typescript node js and inquirer",
   "main": "index.js",
   "type": "module",
